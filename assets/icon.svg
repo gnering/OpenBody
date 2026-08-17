@@ -1,0 +1,22 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0e2a3a"/>
+      <stop offset="1" stop-color="#0a1622"/>
+    </linearGradient>
+  </defs>
+  <rect x="100" y="100" width="824" height="824" rx="185" ry="185" fill="url(#bg)"/>
+  <g fill="none" stroke="#f4efe6" stroke-width="52" stroke-linecap="round" stroke-linejoin="round">
+    <!-- torso lean forward -->
+    <path d="M556 430 L470 600"/>
+    <!-- front arm raised -->
+    <path d="M556 460 L720 372"/>
+    <!-- back arm swung down -->
+    <path d="M540 470 L410 560"/>
+    <!-- front leg driving forward -->
+    <path d="M470 600 L588 672 L560 812"/>
+    <!-- back leg extended push-off -->
+    <path d="M470 600 L378 704 L432 812"/>
+  </g>
+  <circle cx="560" cy="356" r="66" fill="#f4efe6"/>
+</svg>

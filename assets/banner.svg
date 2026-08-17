@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <rect x="0" y="0" width="1280" height="640" fill="#0a0b11"/>
+  <rect x="0" y="0" width="1280" height="640" fill="#12142080"/>
+
+  <g font-family="'Futura','Avenir Next','Helvetica Neue','Arial',sans-serif">
+    <text x="94" y="308" font-size="130" font-weight="700" fill="#f4f6fb">OpenBody</text>
+    <text x="98" y="368" font-size="28" font-weight="500" fill="#a3adc2">Native macOS app for bioimpedance body composition.</text>
+    <text x="98" y="470" font-size="19" font-weight="600" letter-spacing="1" fill="#606a80">OPEN SOURCE · APPLE SILICON</text>
+  </g>
+
+  <rect x="904"  y="290" width="34" height="216" rx="17" fill="#22d3ee"/>
+  <rect x="952"  y="180" width="34" height="326" rx="17" fill="#38bdf8"/>
+  <rect x="1000" y="354" width="34" height="152" rx="17" fill="#6366f1"/>
+  <rect x="1048" y="144" width="34" height="362" rx="17" fill="#8b5cf6"/>
+  <rect x="1096" y="254" width="34" height="252" rx="17" fill="#c026d3"/>
+  <rect x="1144" y="204" width="34" height="302" rx="17" fill="#f43f5e"/>
+</svg>
